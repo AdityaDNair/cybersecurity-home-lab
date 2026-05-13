@@ -1,0 +1,23 @@
+# Key Findings
+
+## Target
+Metasploitable2 VM
+
+## Scanner
+OpenVAS / Greenbone Vulnerability Manager
+
+## Findings
+- Multiple critical vulnerabilities detected
+- Outdated services identified
+- Weak FTP service detected
+- SMB exposure identified
+- Insecure remote services enabled
+
+## High Risk Services
+- vsftpd 2.3.4
+- Samba
+- Telnet
+- UnrealIRCd
+
+## Conclusion
+The target system contains intentionally vulnerable services and demonstrates the effectiveness of vulnerability assessment using OpenVAS.
