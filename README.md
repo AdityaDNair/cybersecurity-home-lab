@@ -104,7 +104,7 @@ Shows completed vulnerability assessment task and severity distribution.
 ## Results Overview
 Displays detected vulnerabilities, CVSS scores, and affected services.
 
-![]()
+![Results-Overview](https://github.com/AdityaDNair/cybersecurity-home-lab/blob/main/screenshots/results-overview.png?raw=true)
 
 ## Critical Vulnerability Details
 Shows detailed analysis of a critical finding including:
