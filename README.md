@@ -99,7 +99,7 @@ OpenVAS-Vulnerability-Assessment-Lab/
 ## Task Overview
 Shows completed vulnerability assessment task and severity distribution.
 
-![]()
+![Task-Overview](https://github.com/AdityaDNair/cybersecurity-home-lab/blob/main/screenshots/task-overview.png?raw=true)
 
 ## Results Overview
 Displays detected vulnerabilities, CVSS scores, and affected services.
