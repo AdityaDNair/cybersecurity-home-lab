@@ -114,7 +114,7 @@ Shows detailed analysis of a critical finding including:
 * Detection results
 * Recommended remediation
 
-![]()
+![Critical-Vulnerability](https://github.com/AdityaDNair/cybersecurity-home-lab/blob/main/screenshots/critical-vulnerability.png?raw=true)
 
 ## Dashboard Summary
 Visual representation of vulnerability severity statistics.
