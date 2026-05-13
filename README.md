@@ -119,7 +119,7 @@ Shows detailed analysis of a critical finding including:
 ## Dashboard Summary
 Visual representation of vulnerability severity statistics.
 
-![]()
+![Dashboard-Summary](https://github.com/AdityaDNair/cybersecurity-home-lab/blob/main/screenshots/dashboard-summary.png?raw=true)
 
 # Key Skills Demonstrated
 
